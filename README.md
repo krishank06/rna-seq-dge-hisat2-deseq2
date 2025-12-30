@@ -62,7 +62,7 @@ parameter choices.
 
 ## Differential expression analysis
 
-- Experimental design: FCDII vs DNT
+- Experimental design: GroupA vs GroupB
 - Statistical testing: DESeq2 Wald test
 - Multiple testing correction: Benjamini–Hochberg
 - Significance threshold: FDR < 0.1 (exploratory)
