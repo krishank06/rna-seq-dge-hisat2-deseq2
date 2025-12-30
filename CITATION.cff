@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "RNA-seq Differential Gene Expression Workflow using HISAT2 and DESeq2"
+message: "If you use this workflow, please cite it."
+authors:
+  - family-names: Kumar
+    given-names: Krishan
+version: 1.0.0
+date-released: 2025-01-01
+repository-code: https://github.com/your-username/rna-seq-dge-hisat2-deseq2
+license: MIT
