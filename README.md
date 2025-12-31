@@ -15,7 +15,7 @@ parameter choices.
 
 1. Adapter trimming and quality filtering (fastp)
 2. Read-level QC (FastQC)
-3. Splice-aware alignment to the human genome (HISAT2)
+3. Alignment to the human genome (HISAT2)
 4. BAM processing and indexing (SAMtools)
 5. Gene-level quantification (featureCounts)
 6. Removal of rRNA genes and low-count filtering
